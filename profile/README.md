@@ -1,3 +1,5 @@
+# Forging innovation ✨
+
 Lumiere Forge is an open-source community of creative developers enhancing the web and tech! We forge innovation, light up ideas, and empower for amazing projects.
 
 ## About Us
